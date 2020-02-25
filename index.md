@@ -1,91 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Seonghyeon Kim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 🤖 Seonghyeon Kim
+Junior backend Developer. specalized primarliy in python. and I think language-independent knowledge like clean code is more important than learning frameworks or libs
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:self@seonghyeon.dev">📧 self@seonghyeon.dev</a>
+| <a href="https://seonghyeon.dev">📕Homepage</a>
+| <a href="https://github.com/NovemberOscar">🚀 GitHub</a>
+| <a href="https://www.linkedin.com/in/novemberoscar/">💼 LinkedIn</a>
+| <a href="https://keybase.io/mmtnovemberoscar/pgp_keys.asc">🔐 Public Key</a>
 </div>
 
+## Skills
 
-## Currently
+### Strong
 
-Standing on the shoulders of giants
+🐍 __Python__
+- 2019 PyCon KR Speaker (Presented about metaclass)
+- asyncio
+- static type checking
 
-### Specialized in
+⛅️ __AWS__
+- DynamoDB
+- SQS/SNS
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+🌳 __Git__
+
+📥 __Redis__
+
+🐳 __Docker__
+
+### Knowledgeable
+
+🛠 __Rust__
+
+💨 __Go__
+
+↔️ __gRPC__
+
+## Experiences
+`2019-now`
+__Backend Developer, MyMusicTaste__
+- **Stacks**:
+    *Python* | *asyncio* | *pytest* | *DynamoDB* | *SQS/SNS* | *Redis* | *Docker*
+- **What I do**: 
+    - Refactoring some microservices with clean architecture. 
+    - Refactoring tests with BDD
+    - Manage microservices which handles user's sensitive data (GDPR, TCPA, 개인정보보호법(KR))
+
+## Speaks
+
+`2019`
+__Session Speaker of *리얼월드 메타클래스*, PyCon KR 2019__
+- [Text](https://seonghyeon.dev/realworld-metaclass)
+- [YouTube](https://youtu.be/NEpVvBGPhLU)
+- [Slide](https://slides.com/seonghyeonkim/pyconkr-realworld-metaclass)
 
 
-### Research interests
+## Open Source
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018-now`
+__Sanic-JWT-Exended__
+- An open source Sanic extension that provides "extended" JWT support
+- Comply with RFC 7519
+- Provides built-in blacklist and access control feature
+- Automatic test & release
+    - GitHub Action
+    - poetry
+- [GitHub Repository](https://github.com/NovemberOscar/Sanic-JWT-Extended)
+- [Docs](https://sanic-jwt-extended.seonghyeon.dev/)
 
+`2020-now`
+__pymatched__
+- A library which provides simple functional pattern matching.
+- Based on python's operator overloading
+- [GitHub Repository](https://github.com/NovemberOscar/pymatched)
+
+## Licenses
+
+`2018`
+***정보처리기능사(Craftsman Information Processing)***, 한국산업인력공단
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__Daedeok SW Meister High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+*High School Diploma*
