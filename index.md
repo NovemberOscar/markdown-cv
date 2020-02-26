@@ -3,7 +3,7 @@ layout: cv
 title: Seonghyeon Kim's CV
 ---
 # 🤖 Seonghyeon Kim
-Junior backend Developer. specalized primarliy in python. and I think language-independent knowledge like clean code is more important than learning frameworks or libs
+Junior backend Developer. specalized primarliy in python. and I think learning language-independent knowledge, such as clean code, is more valuable than learning frameworks or libs.
 
 <div id="webaddress">
 <a href="mailto:self@seonghyeon.dev">📧 self@seonghyeon.dev</a>
@@ -20,6 +20,7 @@ Junior backend Developer. specalized primarliy in python. and I think language-i
 🐍 __Python__
 - 2019 PyCon KR Speaker (Presented about metaclass)
 - asyncio
+- pytest
 - static type checking
 
 ⛅️ __AWS__
@@ -27,6 +28,7 @@ Junior backend Developer. specalized primarliy in python. and I think language-i
 - SQS/SNS
 
 🌳 __Git__
+- Use commands like rebase, amend, etc to keep commit history clean
 
 📥 __Redis__
 
@@ -39,6 +41,8 @@ Junior backend Developer. specalized primarliy in python. and I think language-i
 💨 __Go__
 
 ↔️ __gRPC__
+
+🍃 __MongoDB__
 
 ## Experiences
 `2019-now`
@@ -64,7 +68,7 @@ __Session Speaker of *리얼월드 메타클래스*, PyCon KR 2019__
 `2018-now`
 __Sanic-JWT-Exended__
 - An open source Sanic extension that provides "extended" JWT support
-- Comply with RFC 7519
+- Comply with RFCs
 - Provides built-in blacklist and access control feature
 - Automatic test & release
     - GitHub Action
@@ -88,4 +92,4 @@ __pymatched__
 `2017-2020`
 __Daedeok SW Meister High School__
 
-*High School Diploma*
+- High School Diploma
