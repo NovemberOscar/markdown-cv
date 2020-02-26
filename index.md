@@ -87,9 +87,9 @@ __pymatched__
 `2018`
 ***정보처리기능사(Craftsman Information Processing)***, 한국산업인력공단
 
-## Education
+<!-- ## Education
 
 `2017-2020`
 __Daedeok SW Meister High School__
 
-- High School Diploma
+- High School Diploma -->
